@@ -49,20 +49,19 @@ Intelligence Analyst
 </p>
                   
 
+<!--
 ### Badges
 
 <b>My GitHub Stats</b>
-<!--
 <a href="http://www.github.com/msoto5"><img src="https://github-readme-stats.vercel.app/api?username=msoto5&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&show_icons=true" alt="msoto5's GitHub stats" /></a>
 
 <a href="http://www.github.com/msoto5"><img src="https://github-readme-streak-stats.herokuapp.com/?user=msoto5&stroke=ffffff&background=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
--->
 
 <a href="https://github.com/msoto5" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=msoto5&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
 
 
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/msoto5/msoto5" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=msoto5&repo=msoto5&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+-->
 
