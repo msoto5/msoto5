@@ -26,7 +26,7 @@ Intelligence Analyst
 *   🧠  Currently studying master M2 Cybersecurity in [IPP (Institut Polytechnique de Paris)](https://www.ip-paris.fr/en)
 *   🎓  Computer Engineering bachelor graduate at [UAM (Universidad Autónoma de Madrid)](https://www.uam.es/)
 *   ⚙️  Former Inteligence Analyst Intern at [Crowdstrike](https://www.crowdstrike.com/)
-*   🌍  I'm based in Madrid (currently studying M2 Cybersecurity in Paris)
+*   🌍  I'm based in Madrid 🇪🇸 (currently studying M2 Cybersecurity in Paris 🇫🇷)
 <!--*   🖥️  See my portfolio at [https://miguelsoto.eu](miguelsoto.eu) -->
 
 <!--
